@@ -1,5 +1,12 @@
-### Hi there 👋
+### Welcome, felow IT guy ! 🤓
 
+By the time I am writing this presentation, there is not much to see on this account. But wait and see, I have dozens of ideas in mind ! 
+
+studying software engineering at ESGI, in Paris.
+
+## Have a look at my most used languages ! 
+
+<figure><embed src="https://wakatime.com/share/@vagahbond/3d40424f-4c4d-47cf-be26-c38e4d6210b8.svg"></embed></figure>
 <!--
 **Vagahbond/Vagahbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
