@@ -6,7 +6,7 @@ studying software engineering at ESGI, in Paris.
 
 ## Have a look at my most used languages ! 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vagahbond/bbb82dce-7450-4139-9c99-2b6625392c92.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@vagahbond/8c88670b-d89e-49a7-b763-87b17482a2f2.png" /></a>
 
 <!--
 **Vagahbond/Vagahbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
