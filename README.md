@@ -1,4 +1,4 @@
-### Welcome, felow IT guy ! 🤓
+### Welcome, felow IT guy ! 
 
 By the time I am writing this presentation, there is not much to see on this account. But wait and see, I have dozens of ideas in mind ! 
 
