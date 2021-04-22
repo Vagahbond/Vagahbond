@@ -1,8 +1,8 @@
-### Welcome, felow IT guy ! 
+### Welcome ! 
 
-By the time I am writing this presentation, there is not much to see on this account. But wait and see, I have dozens of ideas in mind ! 
+I've been coding for 4 years now. Here you can check out a few of my personnal projects.
 
-studying software engineering at ESGI, in Paris.
+Studying software engineering at ESGI, in Paris.
 
 ## Have a look at my most used languages ! 
 
