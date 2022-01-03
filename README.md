@@ -1,8 +1,10 @@
 ### Welcome ! 
 
-I've been coding for 4 years now. Here you can check out a few of my personnal projects.
+I've been coding for 5 years now. Here you can check out a few of my personnal projects.
 
 Studying software engineering at ESGI, in Paris.
+
+I enjoy low-level coding and audio stuff.
 
 ## Have a look at my most used languages ! 
 
