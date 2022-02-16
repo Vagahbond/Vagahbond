@@ -6,8 +6,9 @@ Studying software engineering at ESGI, in Paris.
 
 I enjoy low-level coding and audio stuff.
 
-![](https://wakatime.com/share/@vagahbond/b31e995a-1ebd-4303-b483-f533ad24206e.svg)
-![](https://wakatime.com/share/@vagahbond/6ecad297-f6ee-4456-a0ed-5e8c342550bb.svg)
+Languages repartition          |  Activity over the last month
+:-------------------------:|:--------------------------:
+![](https://wakatime.com/share/@vagahbond/b31e995a-1ebd-4303-b483-f533ad24206e.svg) |![](https://wakatime.com/share/@vagahbond/6ecad297-f6ee-4456-a0ed-5e8c342550bb.svg)
 
 <!--
 **Vagahbond/Vagahbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
