@@ -1,6 +1,6 @@
 ### Hello there !
 
-I've been coding for 5 years now. Here you can check out a few of my personnal and school projects.
+I've been coding for 6 years now. Here you can check out a few of my personnal and school projects.
 
 Studying software engineering at ESGI, in Paris.
 
