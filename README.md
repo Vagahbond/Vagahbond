@@ -7,7 +7,7 @@ Welcome to my profile, have a look !
 
 ## Me contacter
 
-<div align="center">
+
 <p align="center">
 
 <img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
@@ -25,5 +25,4 @@ Vagahbond#4554
 <p align="center">
 firroloni.yoni@gmail.com
 </p>
-</div>
 
