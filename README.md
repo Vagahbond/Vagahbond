@@ -11,6 +11,12 @@ The type of lazy that tend to automate everything, and the type of curious that 
 
 VScode and neovim are my best friends, and I'm a growing fan of the terminal. 
 
+<p align="center">
+   <img title="overview" src="https://raw.githubusercontent.com/vagahbond/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   <img title="overview" src="https://raw.githubusercontent.com/vagahbond/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+
+</p>
+
 ## What I put my time into 🕰️
 
 * 👨‍🏫 Freelance lecturer to Bachelor and Master students in a couple private engineering schools, in Paris: 
