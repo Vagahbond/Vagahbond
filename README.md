@@ -1,26 +1,8 @@
-### Hello there !
+# Hello there ! 🐌
 
-I've been coding for 6 years now. Here you can check out a few of my personnal and school projects.
+Welcome to my profile, have a look ! 
+* 🧙‍♂️ Been coding for about 7 years yet still feel like I know nothing.
+* 🎓 Own Master's dregree in software architecture and eager to learn more new stuff!
+* 🇦🇺 Looking for a job in Australia for about mid 2024, see my skills below ! 
 
-Studying software engineering at ESGI, in Paris.
 
-I enjoy low-level coding and audio stuff.
-
-
-![](https://wakatime.com/share/@vagahbond/21940caa-e773-4f93-83ae-133945684a05.png) 
-![](https://wakatime.com/share/@vagahbond/6ecad297-f6ee-4456-a0ed-5e8c342550bb.svg)
-
-<!--
-**Vagahbond/Vagahbond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
