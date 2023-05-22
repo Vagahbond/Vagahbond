@@ -32,19 +32,19 @@ VScode and neovim are my best friends, and I'm a growing fan of the terminal.
 
 ## Things I know how to use 🧠
 <p align=center>
-<img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="5%"/>
-<img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="5%"/>
-<img title="Nestjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/640px-NestJS.svg.png" width="5%"/>
-<img title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/640px-Android_Studio_Icon_%282014-2019%29.svg.png" width="5%"/>
-<img title="Dotnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/640px-.NET_Core_Logo.svg.png" width="5%"/>
-<img title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" width="5%"/>
-<img title="Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/640px-Ruby_On_Rails_Logo.svg.png" width="13%"/>
-<img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" width="5%"/>
-<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="5%"/>
-<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/640px-Kubernetes_logo_without_workmark.svg.png" width="5%"/>
-<img title="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" width="8%"/>
-<img title="Apache" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/640px-Apache_HTTP_server_logo_%282019-present%29.svg.png" width="15%"/>
-<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/GNU_Linux.svg/640px-GNU_Linux.svg.png" width="5%"/>
+<img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60px"/>
+<img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="60px"/>
+<img title="Nestjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/640px-NestJS.svg.png" height="60px"/>
+<img title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/640px-Android_Studio_Icon_%282014-2019%29.svg.png" height="60px"/>
+<img title="Dotnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/640px-.NET_Core_Logo.svg.png" height="60px"/>
+<img title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" height="60px"/>
+<img title="Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/640px-Ruby_On_Rails_Logo.svg.png" height="60px"/>
+<img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" height="60px"/>
+<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="60px"/>
+<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/640px-Kubernetes_logo_without_workmark.svg.png" height="60px"/>
+<img title="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" height="60px"/>
+<img title="Apache" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/640px-Apache_HTTP_server_logo_%282019-present%29.svg.png" height="60px"/>
+<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/GNU_Linux.svg/640px-GNU_Linux.svg.png" height="60px"/>
 </p>
 
 ## What I invest my free time into ⌚
