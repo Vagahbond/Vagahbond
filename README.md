@@ -32,6 +32,7 @@ VScode and neovim are my best friends, and I'm a growing fan of the terminal.
 
 ## Things I know how to use 🧠
 <p align=center>
+<img title="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" height="60px"/>
 <img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60px"/>
 <img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="60px"/>
 <img title="Nestjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/640px-NestJS.svg.png" height="60px"/>
