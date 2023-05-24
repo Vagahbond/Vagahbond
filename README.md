@@ -41,6 +41,7 @@ VScode and neovim are my best friends, and I'm a growing fan of the terminal.
 <img title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" height="60px"/>
 <img title="Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/640px-Ruby_On_Rails_Logo.svg.png" height="60px"/>
 <img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" height="60px"/>
+<img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" height="60px"/>
 <img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" height="60px"/>
 <img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/640px-Kubernetes_logo_without_workmark.svg.png" height="60px"/>
 <img title="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" height="60px"/>
