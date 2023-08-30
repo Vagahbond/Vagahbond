@@ -1,15 +1,15 @@
-# Hello there ! 🐌
+# Hello there! 🐌
 
-Welcome to my profile, have a look ! 
-* 🇫🇷 I'm a french software engineer, lecturer and part time programmer.
+Welcome to my profile, Have a look! 
+* 🇫🇷 I'm a French software engineer, lecturer, and part-time programmer.
 * 🧙‍♂️ Been coding for about 7 years yet still feel like I know nothing.
-* 🎓 Own Master's dregree in software architecture and eager to learn more new stuff!
-* 🇦🇺 Looking for a job in Australia for about mid 2024, see my skills and contacts below ! 
+* 🎓 Own Master's degree in software architecture and eager to learn more new stuff!
+* 🇦🇺 Looking for a job in Australia for about mid-2024, see my skills and contacts below! 
 
 I am the type to get bored easily, so I like to try new things and learn new stuff.
-The type of lazy that tend to automate everything, and the type of curious that tend to break everything.
+The type of lazy that tends to automate everything, and the type of curious that tends to break everything.
 
-VScode and neovim are my best friends, and I'm a growing fan of the terminal. 
+VScode and Neovim are my best friends, and I'm a growing fan of the terminal. 
 
 <p align="center">
    <img title="overview" src="https://raw.githubusercontent.com/vagahbond/github-stats/master/generated/overview.svg#gh-dark-mode-only">
@@ -19,13 +19,13 @@ VScode and neovim are my best friends, and I'm a growing fan of the terminal.
 
 ## What I put my time into 🕰️
 
-* 👨‍🏫 Freelance lecturer to Bachelor and Master students in a couple private engineering schools, in Paris: 
+* 👨‍🏫 Freelance lecturer to Bachelor and Master students in a couple of private engineering schools, in Paris: 
     * APIs with NodeJS and Express
     * C programming language
     * Web architecture
 
-* 👨‍💻 Part time programmer for a small start-up, working on a web app for managing natural disasters:
-  * 🛤️ Ruby on rails backend
+* 👨‍💻 Part-time programmer for a small start-up, working on a web app for managing natural disasters:
+  * 🛤️ Ruby on Rails backend
   * 🌐 Geographic data stored in PostGIS, displayed by Geoserver
   * ⚛️ React frontend in TypeScript 
 
@@ -51,24 +51,24 @@ VScode and neovim are my best friends, and I'm a growing fan of the terminal.
 
 ## What I invest my free time into ⌚
 * 💽 Tweaking with self-hosting:
-  * Managing my self hosted services hosted on a single node Kubernetes cluster
+  * Managing my self-hosted services hosted on a single node Kubernetes cluster
   * Playing with CI/CD pipelines when hosting my projects
 
 * 📚 Learning new stuff:
   * Currently learning Dotnet Core and C# by building an API that interfaces with GitHub
-  * Interested in (C++) audio programming and low level programming in general
-  * Learning the nix language
+  * Interested in (C++) audio programming and low-level programming in general
+  * Learning the Nix language
   * Eager to learn about new frameworks when I see them on most my students' screens 
 
-* 🧙 Customizing and automating my linux setup:
+* 🧙 Customizing and automating my Linux setup:
   * Former Arch user
   * New NixOS user
   * Currently looking for solutions to ditch Windows once and for all
 
-* 💾 Interested in low level programming:
+* 💾 Interested in low-level programming:
   * Coded several audio manipulating programs in C++ , one including using the JUCE framework
   * Tried to reproduce Shazam's algorithm in C++, almost got it right and now I understand how it works
-  * Not low level, but learnt Solidity and Ethereum smart contracts, implemented a JSON parser in early days of this technology
+  * Not low level, but learned Solidity and Ethereum smart contracts, implemented a JSON parser in early days of this technology
 
 * 🏃‍♂️ IRL stuff: 
   * 🧗 Rock climbing
@@ -88,7 +88,7 @@ Vagahbond#4554
 <img title="Mail Me" href="mailto:firroloni.yoni@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="5%"/>
 </p>
 <p align="center">
-firroloni.yoni@gmail.com
+pro@yoni-firroloni.com
 </p>
 
 
