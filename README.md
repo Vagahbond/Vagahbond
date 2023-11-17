@@ -46,7 +46,7 @@ VScode and Neovim are my best friends, and I'm a growing fan of the terminal.
 <img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/640px-Kubernetes_logo_without_workmark.svg.png" height="60px"/>
 <img title="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" height="60px"/>
 <img title="Apache" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/640px-Apache_HTTP_server_logo_%282019-present%29.svg.png" height="60px"/>
-<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/GNU_Linux.svg/640px-GNU_Linux.svg.png" height="60px"/>
+<img title="Docker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-Q86XGVJahug%2FXm-aQfgtuMI%2FAAAAAAAAAcA%2FqqPQeihI39EbG2N87jG65xfnCdvF85-WQCLcBGAsYHQ%2Fs1600%2Fdocker.png&f=1&nofb=1&ipt=2db1759d5afe6a72d58e086b35c92f6d67ae3dc59cd6e2412fb83428d724b58b&ipo=images" height="60px"/>
 </p>
 
 ## What I invest my free time into ⌚
