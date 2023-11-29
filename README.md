@@ -70,7 +70,7 @@ VScode and Neovim are my best friends, and I'm a growing fan of the terminal.
   * Not low level, but learned Solidity and Ethereum smart contracts, implemented a JSON parser in early days of this technology
 
 * 🏃‍♂️ IRL stuff: 
-  * 🧗 Rock climbing
+  * 🧗 Rock climbing, Parkour
   * 🎸 Making music with FL studio, playing guitar and ukulele
  
 
