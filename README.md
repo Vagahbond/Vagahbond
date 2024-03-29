@@ -52,7 +52,6 @@ Personal programming setup consists of Neovim on a Nixos setup.
 
 - 📚 Learning new stuff:
 
-  - Currently learning Dotnet Core and C# by building an API that interfaces with GitHub
   - Interested in (C++) audio programming and low-level programming in general
   - Learning the Nix language
   - Eager to learn about new frameworks when I see them on most my students' screens
