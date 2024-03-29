@@ -1,81 +1,79 @@
 # Hello there! 🐌
 
-Welcome to my profile, Have a look! 
-* 🇫🇷 I'm a French software engineer, lecturer, and part-time programmer.
-* 🧙‍♂️ Been coding for about 7 years yet still feel like I know nothing.
-* 🎓 Own Master's degree in software architecture and eager to learn more new stuff!
-* 🇦🇺 Looking for a job in Australia for about mid-2024, see my skills and contacts below! 
+Welcome to my ~~curriculum vitae~~ Github profile !
 
-I am the type to get bored easily, so I like to try new things and learn new stuff.
-The type of lazy that tends to automate everything, and the type of curious that tends to break everything.
-
-VScode and Neovim are my best friends, and I'm a growing fan of the terminal. 
+## What I can do...
 
 <p align="center">
    <img title="overview" src="https://raw.githubusercontent.com/vagahbond/github-stats/master/generated/overview.svg#gh-dark-mode-only">
    <img title="overview" src="https://raw.githubusercontent.com/vagahbond/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-
 </p>
 
-## What I put my time into 🕰️
+### ...Best
 
-* 👨‍🏫 Freelance lecturer to Bachelor and Master students in a couple of private engineering schools, in Paris: 
-    * APIs with NodeJS and Express
-    * C programming language
-    * Web architecture
+- NodeJS/Bun frontend with React/Redux, NextJS, Nuxt, Typescript
+- NodeJS/Bun backend with Express, NestJS, Tyoescript
+- C/C++
+- Python web apps with Django
+- Nix
+- Docker/docker-compose
+- Github Action
+- Firebase apps
 
-* 👨‍💻 Part-time programmer for a small start-up, working on a web app for managing natural disasters:
-  * 🛤️ Ruby on Rails backend
-  * 🌐 Geographic data stored in PostGIS, displayed by Geoserver
-  * ⚛️ React frontend in TypeScript 
+### .. With a bit of remembering how to
 
+- Iphone apps with swift
+- Android apps with android-studio and kotlin
+- Rust API with Rocket
+- Audio programming
+- AWS/Azure
+- Kubernetes
+- Ruby on Rais
+- API with Dotnet Core
+- Embarcadero Delphi apps (yes really)
+- bash/powershell
 
-## Things I know how to use 🧠
-<p align=center>
-<img title="NodeJS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" height="60px"/>
-<img title="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60px"/>
-<img title="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" height="60px"/>
-<img title="Nestjs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/640px-NestJS.svg.png" height="60px"/>
-<img title="Android Studio" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/640px-Android_Studio_Icon_%282014-2019%29.svg.png" height="60px"/>
-<img title="Dotnet" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/640px-.NET_Core_Logo.svg.png" height="60px"/>
-<img title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/640px-Ruby_logo.svg.png" height="60px"/>
-<img title="Rails" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/640px-Ruby_On_Rails_Logo.svg.png" height="60px"/>
-<img title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png" height="60px"/>
-<img title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" height="60px"/>
-<img title="Docker" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/640px-Kubernetes_logo_without_workmark.svg.png" height="60px"/>
-<img title="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New-azure-logo-square.png/640px-New-azure-logo-square.png" height="60px"/>
-<img title="Apache" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/640px-Apache_HTTP_server_logo_%282019-present%29.svg.png" height="60px"/>
-<img title="Docker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-Q86XGVJahug%2FXm-aQfgtuMI%2FAAAAAAAAAcA%2FqqPQeihI39EbG2N87jG65xfnCdvF85-WQCLcBGAsYHQ%2Fs1600%2Fdocker.png&f=1&nofb=1&ipt=2db1759d5afe6a72d58e086b35c92f6d67ae3dc59cd6e2412fb83428d724b58b&ipo=images" height="60px"/>
-</p>
+## More about me
 
-## What I invest my free time into ⌚
-* 💽 Tweaking with self-hosting:
-  * Managing my self-hosted services hosted on a single node Kubernetes cluster
-  * Playing with CI/CD pipelines when hosting my projects
+- 🇫🇷 I'm a French software engineer and lecturer.
+- 🧙‍♂️ Been coding proffessionally for about 6 years.
+- 🎓 Own Master's degree in software architecture.
+- 🇦🇺 Recently arrived in Sydney, ready for new challenges.
 
-* 📚 Learning new stuff:
-  * Currently learning Dotnet Core and C# by building an API that interfaces with GitHub
-  * Interested in (C++) audio programming and low-level programming in general
-  * Learning the Nix language
-  * Eager to learn about new frameworks when I see them on most my students' screens 
+Personal programming setup consists of Neovim on a Nixos setup.
 
-* 🧙 Customizing and automating my Linux setup:
-  * Former Arch user
-  * New NixOS user
-  * Currently looking for solutions to ditch Windows once and for all
+### What I invest my free time into ⌚
 
-* 💾 Interested in low-level programming:
-  * Coded several audio manipulating programs in C++ , one including using the JUCE framework
-  * Tried to reproduce Shazam's algorithm in C++, almost got it right and now I understand how it works
-  * Not low level, but learned Solidity and Ethereum smart contracts, implemented a JSON parser in early days of this technology
+- 💽 Tweaking with self-hosting:
 
-* 🏃‍♂️ IRL stuff: 
-  * 🧗 Rock climbing, Parkour
-  * 🎸 Making music with FL studio, playing guitar and ukulele
- 
+  - Managing my self-hosted services (via Kubernetes/nix/swarm)
+  - Playing with CI/CD pipelines when hosting my projects
+  - Defining my services using the Nix language
+
+- 📚 Learning new stuff:
+
+  - Currently learning Dotnet Core and C# by building an API that interfaces with GitHub
+  - Interested in (C++) audio programming and low-level programming in general
+  - Learning the Nix language
+  - Eager to learn about new frameworks when I see them on most my students' screens
+
+- 🧙 Customizing and automating my Linux setup:
+
+  - Former Arch user
+  - New NixOS user
+  - Currently looking for solutions to ditch Windows once and for all
+
+- 💾 Interested in low-level programming:
+
+  - Coded several audio manipulating programs in C++ , one including using the JUCE framework
+  - Tried to reproduce Shazam's algorithm in C++, almost got it right and now I understand how it works
+  - Not low level, but learned Solidity and Ethereum smart contracts, implemented a JSON parser in early days of this technology
+
+- 🏃‍♂️ When I'm not on my computer:
+  - 🧗 Rock climbing, Parkour
+  - 🎸 Making music with FL studio, playing guitar and ukulele
 
 ## Contact me 📫
-
 
 <p align="center">
 <img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="5%"/>
@@ -89,6 +87,3 @@ Vagahbond#4554
 <p align="center">
 pro@yoni-firroloni.com
 </p>
-
-
-
