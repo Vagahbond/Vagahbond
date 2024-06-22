@@ -1,23 +1,68 @@
 # Hello there! 🐌
-
-Here I host my personnal projects along with those I used to do as a student!
+Welcome to my GitHub ! 
 
 ## Who I am:
 
-- 🎓 Software engineer with a Master's degree in software architecture, and 5 years of working experience.
-- 👨‍💻 Passionated with backend and DevOps but forced to do frontend as well.
+- 🎓 Software engineer - Master's degree in software architecture - 5 years of working experience.
+- 👨‍💻 Passionated about backend and Platform engineering but forced to do frontend as well sometimes.
 - 🦘 Open to opportunities in AU right now ;).
-- 🪧 A strong advocate for self hosting maintaining my own personal infrastructure.
+- 🪧 Hosting my own infrastructure to cultivate knowledge and protect my data
 
 ## What you'll find here
-
-- Web apps, generaly Typescript and Javascript for NodeJS and Bun
-- Infrastructure and desktop as code via Nix
-- My rices
-- C/C++ experiments
-- Kubernetes deployments
-- Dockerization
-
+🪐 Uni-verse, a scalable audio streaming platform respecting best practices
+  <ul>
+    <li>
+      📜
+      <a href="https://uni-verse-fm.github.io/" target="_blank">
+        The documentation
+      </a>
+    </li>
+    <li>
+      👨‍💻 
+      <a href="https://github.com/uni-verse-fm" target="_blank">
+        The code
+      </a>
+    </li>
+  </ul>
+  Or:
+  <ul>
+    <li>
+       ❄️
+       <a href="https://github.com/vagahbond/nix-config" target="_blank">
+         My documented multi-host infrastructure-as-code services
+       </a>
+    </li>
+    <li>
+       ☸️
+       <a href="https://github.com/Vagahbond/bitwarden-kubernetes" target="_blank">
+         Kubernetes resources for Bitwarden 
+       </a>
+    </li>
+    <li>
+       🏡
+       <a href="https://github.com/Vagahbond/RESTpastrop" target="_blank">
+         A Restful API made with Express/TS working as a simple airbnb clone
+       </a>
+    </li>
+    <li>
+       💽
+       <a href="https://github.com/soundhive/cpp-canonical-wav-decoder" target="_blank">
+         A C++ written decoder for WAV files
+       </a>
+    </li>
+    <li>
+       🪙
+       <a href="https://github.com/NFpieT/NFpieT" target="_blank">
+         A Solidity powered executable NFT on the Ethereum blockchain
+       </a>
+    </li>
+    <li>
+       🖼️
+       <a href="https://github.com/pattern-finder" target="_blank">
+         A platform allowing people to code pattern detection algorithms for images in several languages
+       </a>
+    </li>
+  </ul>
 
 
 <p align="center">
@@ -33,23 +78,5 @@ Here I host my personnal projects along with those I used to do as a student!
 |Vagahbond#4554|pro@yoni-firroloni.com|
 
 </center>
-
-
-
-<p align="center">
-    
-
-      
-
-
-</p>
-   
-<p align="center">
-      
-<a></a>
-
-<a></a>
-
-</p>
    
 
