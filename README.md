@@ -73,9 +73,9 @@ Welcome to my GitHub !
 ## Contact me 📫
 <center>
    
-<img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="200px"/>  | <img title="Mail Me" href="mailto:firroloni.yoni@gmail.com" src="https://cdn-1.webcatalog.io/catalog/protonmail/protonmail-icon.png" width="200px"/> 
+<img title="Discord" href="https://discord.gg/TS6w3TYZRM" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="200px"/>  | <img title="Mail Me" href="mailto:vagahbond@pm.me" src="https://cdn-1.webcatalog.io/catalog/protonmail/protonmail-icon.png" width="200px"/> 
 |:-----------:|:-------:|
-|Vagahbond#4554|pro@yoni-firroloni.com|
+|Vagahbond#4554|vagahbond@pm.me|
 
 </center>
    
