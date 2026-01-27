@@ -28,6 +28,12 @@ Welcome to my GitHub !
   <ul>
     <li>
        ❄️
+       <a href="https://github.com/vagahbond/charpente" target="_blank">
+         A lib that helps you organize better your multi-host config.
+       </a>
+    </li>
+    <li>
+       ❄️
        <a href="https://github.com/vagahbond/nix-config" target="_blank">
          My documented multi-host infrastructure-as-code services
        </a>
