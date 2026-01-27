@@ -2,7 +2,7 @@
 Welcome to my GitHub ! 
 
 ## Check out 
-* [❄️ A lib that helps you organize better your multi-host config with nix](https://github.com/vagahbond/charpent)
+* [❄️ Charpente: A lib that helps you organize better your multi-host config with nix](https://github.com/vagahbond/charpent)
 * [🪐 Uni-verse, a scalable audio streaming platform](https://uni-verse-fm.github.io)
 * [❄️ My multi-host infrastructure-as-code architecture](https://github.com/vagahbond/nix-config)
 * [🏡 A Restful API made with Express/TS working as a simple airbnb clone](https://github.com/Vagahbond/RESTpastrop)
